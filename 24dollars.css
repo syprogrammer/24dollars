@@ -77,6 +77,11 @@ body {
   background-color: #0dee6025;
   font-weight: 500;
 }
+#adddelivery:hover{
+  cursor: pointer;
+  color: black;
+  background-color: white;
+}
 .shop-description {
   display: flex;
   align-items: center;
