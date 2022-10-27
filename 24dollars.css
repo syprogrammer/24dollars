@@ -80,7 +80,7 @@ body {
 #adddelivery:hover{
   cursor: pointer;
   color: black;
-  background-color: white;
+  background-color: #0dee6077;
 }
 .shop-description {
   display: flex;
