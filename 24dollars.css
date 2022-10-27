@@ -33,7 +33,7 @@ body {
   font-weight: 600;
 }
 .about-section {
-  font-weight: 600;
+  font-weight: 400;
   font-size: larger;
   opacity: 0.9;
   margin-left: 2rem;
@@ -77,7 +77,7 @@ body {
   background-color: #0dee6025;
   font-weight: 500;
 }
-#adddelivery:hover{
+#adddelivery:hover {
   cursor: pointer;
   color: black;
   background-color: #0dee6077;
@@ -90,9 +90,8 @@ body {
 }
 .shop-description .fa-pencil {
   font-weight: 600;
-  
 }
-.pencil-icon:hover{
+.pencil-icon:hover {
   cursor: pointer;
   color: #128c7e;
 }
@@ -212,5 +211,5 @@ nav img {
   width: 22px;
   height: 20px;
   border-radius: 50px;
-  border:2px solid #128c7e;
+  border: 2px solid #128c7e;
 }
